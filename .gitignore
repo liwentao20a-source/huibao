@@ -1,0 +1,41 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MATLAB temporary, cache, and generated files
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+sccprj/
+codegen/
+simulink_cache/
+*.autosave
+
+# Generated data and exports
+*.mat
+*.fig
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.gif
+*.mp4
+*.avi
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
