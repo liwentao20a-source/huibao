@@ -22,6 +22,7 @@ simulink_cache/
 *.autosave
 
 # Generated data and exports
+开题报告.pdf
 *.mat
 *.fig
 *.png
@@ -38,4 +39,3 @@ simulink_cache/
 *.tmp
 *.bak
 *.cache
-
